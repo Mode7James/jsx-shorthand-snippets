@@ -1,16 +1,16 @@
 {
-    "name": "js-jsx-snippets",
-    "displayName": "JS JSX Snippets",
-    "description": "Simple extensions for React, Redux in JS with babel and ES6 syntax",
-    "version": "10.0.0",
-    "publisher": "skyran",
+    "name": "jsx-shorthand-snippets",
+    "displayName": "JS JSX Shorthand Snippets",
+    "description": "Add a className quickly",
+    "version": "1.0.0",
+    "publisher": "James Allen",
     "icon": "images/react-logo.png",
     "galleryBanner": {
         "theme": "light"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/skyran1278/js-jsx-snippets"
+        "url": "https://github.com/skyran1278/jsx-shorthand-snippets"
     },
     "engines": {
         "vscode": "^1.16.0"
